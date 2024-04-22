@@ -4,8 +4,6 @@
 local ScreenGui = Instance.new("ScreenGui")
 local TextLabel = Instance.new("TextLabel")
 
---Properties:
-
 ScreenGui.Parent = game.CoreGui
 
 TextLabel.Parent = ScreenGui
