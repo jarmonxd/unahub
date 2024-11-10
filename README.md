@@ -6,5 +6,5 @@ Hello there!
 
 In truth, it's just a little boredom-busting project of mine, but I hope you enjoy it! 😄
 
-Our official hub website is: [https://unahub.xyz](https://unahub.xyz) (Currently under construction as of 10/11/2024)
+Our official hub website is: [https://unahub.xyz](https://unahub.xyz)
 ![Hello, World](https://github.com/user-attachments/assets/c0db1dac-842b-4c99-9982-c900bc80468e)
