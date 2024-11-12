@@ -6,4 +6,6 @@ Hello there!
 
 Our official hub website: [https://unahub.xyz](https://unahub.xyz)
 
+Executor support : Synapse Z , Wave 
+
 ![Hello, World](https://github.com/user-attachments/assets/c0db1dac-842b-4c99-9982-c900bc80468e)
