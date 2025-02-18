@@ -28,3 +28,5 @@ gameLists
 [15/2/2025] เพิ่มแมพ Answer-or-Die
 
 [16/2/2025] ตอบคําถามได้แทบทุกคําถาม (Answer-or-Die)
+
+[18/2/2568] เพิ่มแมพ IMPOSSIBLE OBBY
