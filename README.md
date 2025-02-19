@@ -4,9 +4,12 @@ Hello there!
 
 **Unahub** is a free, no-key Roblox script designed for easy, instant use—no extra steps required! It’s mainly made for obby maps.
 
+official hub discord: https://discord.gg/VasWX82PJh
+
 Our official hub website: [https://unahub.xyz](https://unahub.xyz)
 
-If you encounter any issues, please contact: admin@mon.in.th
+
+If you encounter any issues, please contact: [discord](https://discord.gg/VasWX82PJh)
 
 Executor support : Synapse Z , Wave , Seliware
 
@@ -19,6 +22,7 @@ gameLists
 3. Really-Easy-Obby.lua (https://www.roblox.com/th/games/8472851459)
 4. Answer-or-Die (https://www.roblox.com/th/games/11966456877)
 5. IMPOSSIBLE OBBY (https://www.roblox.com/th/games/16247300990)
+6. Build A Boat With Blocks (https://www.roblox.com/th/games/7142143048)
 
 
 ----[ change-logs ]----
@@ -30,3 +34,5 @@ gameLists
 [16/2/2025] ตอบคําถามได้แทบทุกคําถาม (Answer-or-Die)
 
 [18/2/2568] เพิ่มแมพ IMPOSSIBLE OBBY
+
+[19/2/2568] เพิ่มแมพ Build A Boat With Blocks
